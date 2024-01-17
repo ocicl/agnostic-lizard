@@ -5,6 +5,6 @@ Agnostic Lizard is an almost correct portable code walker for Common Lisp
 
 |---------+----------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/mraskin/agnostic-lizard.git |
-| commit  | 9f6c044                                                        |
+| commit  | fe1a1d7                                                        |
 | systems | agnostic-lizard                                                |
 |---------+----------------------------------------------------------------|
